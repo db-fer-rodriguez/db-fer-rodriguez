@@ -5,6 +5,8 @@
 
 ## 🛠️ **Tecnologías en Aprendizaje**  
 
+(interes Directo) 
+
 **NewSQL**:  
 ![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=flat&logo=cockroachlabs&logoColor=white)
 
@@ -13,8 +15,16 @@
 
 **SQL**:  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
-  
 
+
+ Interes Trasversal 
+
+ ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+![BSON](https://img.shields.io/badge/BSON-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## 🌱 **Capacitandome Actualmente**  
 - **Fundamentos de bases con MySQL** - UNC
