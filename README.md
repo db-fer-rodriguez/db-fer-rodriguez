@@ -27,31 +27,29 @@
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 ## 🌱 **Capacitandome Actualmente**  
-- **Fundamentos de bases con MySQL** - UNC
-- **Analis de Datos** – Talento Tech
+- **programa de aprendizaje Forward de McKinsey** - academy.mckinseyaccelerate.com
+
 
 
 ---
 
 ## 🧪 **Proyectos de Exploración**  
 ### 🔥 **En Progreso**  
-1. **Análisis de Datos con SQL**  
-   - **Objetivo**: Dominar consultas SQL avanzadas usando datasets públicos (ej: IMDb).  
-   - **Tecnologías**: PostgreSQL, Python.  
+1. **Cuadro de Control Garantias - Siniestros y Repuestos Power BI**  
+   - **Objetivo**: Crear el cuadro de Control y Visualizacion de G S R de Mesa de Ayuda Seccional BGA - CSJ  
+   - **Tecnologías**: Power Bi - Python - Cursor.  
 
-2. **API con MongoDB**  
-   - **Objetivo**: Crear una API REST para gestión de tareas con operaciones CRUD.  
-   - **Tecnologías**: MongoDB, Express.js.  
+2. **Pagina Sistemas BGA - Mesa de ayuda Seccional BGA**  
+   - **Objetivo**: Crear la Pagina en Sharepoint de Area de Sistemas - Mesa de ayuda Seccional BGA  
+   - **Tecnologías**: Share Point - Entorno Microsoft 365  
 
 ### 🚀 **Próximamente**
-- Migrar una base de datos relacional a Mongodb (NoSQL)
-- Migrar una base de datos relacional a CockroachDB (NewSQL).  
-- Sistema de recomendaciones básico con Redis.  
+
 
 ---
 
 ## 📚 **Recursos que Estoy Siguiendo**  
-- Cursos: *MongoDB University*, *SQLZoo*.  
+- Cursos:  
  
 ---
 
